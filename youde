@@ -1,4 +1,19 @@
 
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>A Pen by  Lucy Tan</title>
+  
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+  
 <div class="background">
   <div class="square"></div>
   <div class="circle1"></div>
@@ -33,3 +48,7 @@
   <div class="con_info_ppp">Mobile： <br>　0985991161 <br>  Email： <br>　qwerty239qwe@gmail.com</div>
 </div>
 <div class="contact_mark"></div>
+  
+  
+</body>
+</html>
